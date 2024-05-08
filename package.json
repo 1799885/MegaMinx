@@ -1,5 +1,4 @@
-{
-  "homepage": "https://merpig.github.io/MegaMinx/",
+"homepage": "https://merpig.github.io/MegaMinx/",
   "name": "megaminx",
   "version": "0.1.0",
   "private": true,
@@ -48,3 +47,4 @@
     "gh-pages": "^2.2.0"
   }
 }
+
